@@ -1100,3 +1100,5 @@ flutter test --no-pub --dart-define=DISABLE_REMOTE_IMAGES=true --dart-define=ALL
 
 
 <!-- build-trigger: 2026-09-28 zhenguojian-0.2.50+56 -->
+
+<!-- pr-build-trigger: zhenguojian-0.2.50+56 -->
